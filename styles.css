@@ -1,0 +1,47 @@
+body{
+    background-color: aquamarine;
+}
+
+.player1{
+    position: absolute;
+    left:35%;
+    top:20%;
+}
+.player2{
+    position: absolute;
+    left:65%;
+    top:20%;
+}
+h2{
+    display: inline;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(28, 17, 77, 0.904);
+    display: inline;
+    position: absolute;
+    top:5%;
+    left:40%;
+}
+
+.leftimage {
+    width: 50%;
+    display: inline;
+    position: absolute;
+    left:25%;
+    top:30%;
+    padding-left: 5% ;
+    background-color: aquamarine;
+
+}
+.rightimage {
+    width: 50%;
+    display: inline;
+    position: absolute;
+    left:60%;
+    top:30%;
+    padding-right:5% ;
+    background-color: aquamarine;
+
+}
